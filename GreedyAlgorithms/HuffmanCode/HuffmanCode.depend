@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1604752634 source:g:\programming\huffmancode\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1605116203 source:g:\programming\2nd_year\even\personalpractice\algorithms\dynamicprogramming\huffmancode\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1605118876 source:g:\programming\2nd_year\even\personalpractice\algorithms\greedyalgorithms\huffmancode\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
